@@ -1,0 +1,11 @@
+td,th
+{
+border: 1px solid black;}
+table
+{
+    border-collapse: collapse; 
+}
+h3
+{color:#B05070;}
+h2
+{text-align:center;}

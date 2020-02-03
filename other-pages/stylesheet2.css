@@ -1,0 +1,29 @@
+h1
+{
+font-size:30px;
+text-align:center;
+color:#045596;}
+.p1
+{
+text-align:justify;
+float:left;
+width:45%;
+border: 3px solid #983c13;
+padding: 15px 25px;}
+
+.p2
+{
+	text-align:justify;
+	float:right;
+width:45%;
+border: 3px solid #983c13;
+padding: 15px 25px;}
+.legend1
+{text-align:left;}
+
+.source
+{
+  
+  clear: both;
+  text-align:center;
+}
